@@ -1,0 +1,28 @@
+.selected {
+	background-color: black;
+}
+.show-correct {
+	background-color: lightgreen;
+}
+.hide {
+	display: none;
+}
+.show {
+	display: block;
+}
+.show-correct-answers {
+	display: block;
+	padding: 10px;
+	margin: 10px 0;
+	background-color: lightgrey;
+}
+.points {
+	margin-top: 80px;
+	background-color: gold;
+}
+.answer {
+	background-color: lightblue;
+}
+.check-points {
+	background-color: lightgrey;
+}
